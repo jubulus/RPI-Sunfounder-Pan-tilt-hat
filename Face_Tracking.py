@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # Need Ezblock librairies from sunfounder github or an image os install from https://ezblock.cc/download/index.html
+# Look this page for a proper finish install
 # It's a modified example file from Sunfounder. 
 
 import sys
