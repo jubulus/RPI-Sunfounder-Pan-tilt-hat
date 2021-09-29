@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Need Ezblock librairies from sunfounder github or an image os install from https://ezblock.cc/download/index.html
-# Look this page for a proper finish install
+# Look this page for a proper finish install https://www.raspberrypi.org/forums/viewtopic.php?t=290782
 # It's a modified example file from Sunfounder. 
 
 import sys
